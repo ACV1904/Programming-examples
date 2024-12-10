@@ -1,6 +1,6 @@
 # Programming
 
- Coursework of Programming module
+ Courseworks of Programming module
 
 **Coursework 2: Suicide rate analysis**
 
@@ -10,3 +10,10 @@ To determine the years and age groups most at risk of suicide, we will examine t
  [Code of 2nd coursework](https://github.com/ACV1904/Programming/blob/main/Report.md)
  <br />
  [Report of 2nd coursework](https://github.com/ACV1904/Programming/blob/main/Report.md)
+
+ <br /> 
+ <br />
+ 
+ **Coursework 1: School Data Structure Design**
+ 
+ [Report Q3](https://github.com/ACV1904/Programming/blob/main/CW1_Q3_ACV.pdf)
