@@ -1,6 +1,6 @@
-# Programming
+# Programming examples
 
- Courseworks of Programming module
+ From coursework of Programming module
 
 **Suicide rate data analysis**
 
